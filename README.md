@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # Word Figure Exporter 
 
 This repository contains VBA macro that extract all InlineShape figures
@@ -18,3 +20,18 @@ This code is especially useful when preparing academic papers in Word that must 
 - Exports each figure into a clean temporary doc
 - Adjusts page size to the figure
 - Saves numbered PDFs to a user-selected folder
+
+## License
+
+This project is licensed under the MIT License — you are free to use, modify,
+and distribute this code, provided that the original copyright notice is
+included. See the `LICENSE` file for full details.
+
+## Author
+Developed by **Zahed Dastan**, 2025.  
+Feel free to contribute or open issues on GitHub.
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to open a pull request or issue to enhance this project.
